@@ -7,7 +7,7 @@ public class plataformaHorizontal : MonoBehaviour
     Vector3 posicionInicial;
     float puntoA;
     float puntoB;
-    public int direccion = 1;
+    public int direccion;
     public bool activada;
 
     public float distancia = 5;
